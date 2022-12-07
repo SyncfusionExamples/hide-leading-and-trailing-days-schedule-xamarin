@@ -14,4 +14,4 @@ You can set Transparent to `PreviousMonthTextColor` and `NextMonthTextColor` to 
  </syncfusion:SfSchedule>
 ```
 
-KB article - [How to hide leading and trailing days in Xamarin.Forms Schedule (SfSchedule)](https://www.syncfusion.com/kb/12229/how-to-hide-leading-and-trailing-days-in-xamarin-forms-schedule-sfschedule)**
+KB article - [How to hide leading and trailing days in Xamarin.Forms Schedule (SfSchedule)](https://www.syncfusion.com/kb/12229/how-to-hide-leading-and-trailing-days-in-xamarin-forms-schedule-sfschedule)
